@@ -1,52 +1,52 @@
 // Sample product data
 const products = [
-    {
+      {
         id: 1,
         name: "Wireless Headphones",
         price: 99.99,
         category: "electronics",
         rating: 4.5,
-        image: "https://via.placeholder.com/300x200/3498db/ffffff?text=Headphones"
+        image: "https://i5.walmartimages.com/seo/Symphonized-Blast-Wireless-Bluetooth-Headphones-Mic-Ear-Headphones-Samsung-More-22-Playtime-Hours-Travel-Work-Deep-Bass-Headphones-Noise-Isolation-Re_78ff8e5b-5570-4eb2-8ca0-422e4a64d51e.a392ad46e96f707de61a5547318e70d1.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF"
     },
-    {
+       {
         id: 2,
         name: "Cotton T-Shirt",
         price: 24.99,
         category: "clothing",
         rating: 4.2,
-        image: "https://via.placeholder.com/300x200/e74c3c/ffffff?text=T-Shirt"
+        image: "https://cdnp.sanmar.com/medias/424Wx635H-null?context=bWFzdGVyfGltYWdlc3w4Nzk4OXxpbWFnZS9qcGVnfGFEZGlMMmczTmk4eE5qWTNNamMzTnpVd01qYzFNQzgwTWpSWGVEWXpOVWhmYm5Wc2JBfDYzZDMxMjNlZDk0YjM3N2M3MDUxOGYxZjUyZjQ2ZTFkZTk2MzhhMzY4MWNjNzg4OTdlODZmODJlMGVmZDVlOTA"
     },
-    {
+       {
         id: 3,
         name: "JavaScript Book",
         price: 39.99,
         category: "books",
         rating: 4.8,
-        image: "https://via.placeholder.com/300x200/2ecc71/ffffff?text=Book"
+        image: "https://tse2.mm.bing.net/th/id/OIP.mbZcKhol2WIRYCtsx33aLgHaGB?pid=Api&P=0&h=220"
     },
-    {
+       {
         id: 4,
         name: "Smart Watch",
         price: 199.99,
         category: "electronics",
         rating: 4.3,
-        image: "https://via.placeholder.com/300x200/9b59b6/ffffff?text=Smart+Watch"
+        image: "https://m.media-amazon.com/images/I/41APgGFuriL._SY300_SX300_QL70_FMwebp_.jpg"
     },
-    {
+        {
         id: 5,
         name: "Coffee Maker",
         price: 79.99,
         category: "home",
         rating: 4.1,
-        image: "https://via.placeholder.com/300x200/f39c12/ffffff?text=Coffee+Maker"
+        image: "https://m.media-amazon.com/images/I/81eXmViYcqL._AC_SY300_SX300_QL70_ML2_.jpg"
     },
-    {
+  {
         id: 6,
         name: "Jeans",
         price: 49.99,
         category: "clothing",
         rating: 4.0,
-        image: "https://via.placeholder.com/300x200/34495e/ffffff?text=Jeans"
+        image: "https://inside-shops.com/915961-medium_default/jeans-mom-slim-cintura-alta.jpg"
     },
     {
         id: 7,
@@ -54,47 +54,47 @@ const products = [
         price: 45.99,
         category: "books",
         rating: 4.7,
-        image: "https://via.placeholder.com/300x200/1abc9c/ffffff?text=Python+Book"
+        image: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655001861i/61269877.jpg"
     },
-    {
+     {
         id: 8,
         name: "Desk Lamp",
         price: 29.99,
         category: "home",
         rating: 4.4,
-        image: "https://via.placeholder.com/300x200/e67e22/ffffff?text=Desk+Lamp"
+        image: "https://www.lightingstyles.co.uk/pics/12/grey-highly-adjustable-desk-table-lamp.jpg"
     },
-    {
+       {
         id: 9,
         name: "Bluetooth Speaker",
         price: 59.99,
         category: "electronics",
         rating: 4.6,
-        image: "https://via.placeholder.com/300x200/3498db/ffffff?text=Speaker"
+        image: "https://i5.walmartimages.com/seo/Proscan-Elite-Light-up-360-Degree-Sound-Waterproof-IPX4-Bluetooth-Speaker-Dual-External-Passive-Radiators-Black-PESP1708_0a0a66f5-c66e-4b98-b43d-678929603a70.21453f3a6a7686969521d2190aa6d4f7.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
     },
-    {
+        {
         id: 10,
         name: "Winter Jacket",
         price: 89.99,
         category: "clothing",
         rating: 4.3,
-        image: "https://via.placeholder.com/300x200/e74c3c/ffffff?text=Jacket"
+        image: "https://images-na.ssl-images-amazon.com/images/I/71xOOqWS8SL._AC_UX679_.jpg"
     },
-    {
+      {
         id: 11,
         name: "Garden Tools Set",
         price: 34.99,
         category: "home",
         rating: 4.2,
-        image: "https://via.placeholder.com/300x200/2ecc71/ffffff?text=Garden+Tools"
+        image: "https://m.media-amazon.com/images/I/71CTjecL1EL._AC_SY300_SX300_QL70_FMwebp_.jpg"
     },
-    {
+      {
         id: 12,
         name: "Web Development Guide",
         price: 55.99,
         category: "books",
         rating: 4.9,
-        image: "https://via.placeholder.com/300x200/9b59b6/ffffff?text=Web+Dev+Book"
+        image: "https://s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9781493224371_267_2d.png"
     }
 ];
 
